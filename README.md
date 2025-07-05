@@ -14,4 +14,4 @@ Some things, like redstone contraptions will probably break in different version
 > 1. [Download the repository as ZIP](https://github.com/J4PC/A_different_way_to_play_Minecraft-world_download/archive/refs/heads/main.zip)
 > 2. Extract the files from the zip archive
 > 3. Put the folder that contains multiple files inside into your Minecraft saves folder (probably at C:\Users\[Your Desktop name]\AppData\Roaming\.minecraft\saves)
-> Or click the following link
+
